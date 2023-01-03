@@ -42,3 +42,22 @@
 
 
 [Prawo.pl](https://www.prawo.pl/)
+
+
+[Ocena okresowa urzędnika sądu lub prokuratury - kryteria i odwołanie od oceny - Infor.pl](https://www.infor.pl/prawo/pomoc-prawna/sady/3581339,Ocena-okresowa-urzednika-sadu-lub-prokuratury-kryteria-i-odwolanie-od-oceny.html)
+
+> ## Przebieg i kryteria oceny
+> 
+> googletag.cmd.push(function() { googletag.display('intertext\_1'); });
+> 
+> Okresowe oceny kwalifikacyjne odbywają się nie częściej niż raz na 12 miesięcy i nie rzadziej niż raz na 24 miesiące (art. 8 ust. 2 [UPSiP](https://www.infor.pl/akt-prawny/DZU.2018.055.0000577,ustawa-o-pracownikach-sadow-i-prokuratury.html)). Nadto należy zwrócić uwagę, na fakt, iż pierwszej oceny kwalifikacyjnej, dokonuje właściwy dyrektor sądu lub właściwy prokurator nie wcześniej niż po upływie roku od daty zatrudnienia urzędnika. Dodatkowo termin dokonania oceny jest ustalany przez dyrektora sądu lub właściwego prokuratora (§2 RozpMSOcenaPSiP).
+> 
+> Kryteriami oceny okresowej są obowiązki jakie wykonuje [urzędnik](https://samorzad.infor.pl/tematy/urzednik/ "urzędnik") sądu lub prokuratury, co wynika z art. 8 ust. 3 UPSiP, wśród nich są: terminowość i prawidłowość wykonywanych zadań, zdolność do samodzielnego podejmowania decyzji, przejawianie inicjatywy, doskonalenie sposobu wykonywania obowiązków, umiejętność planowania i organizacji pracy, podnoszenie kwalifikacji i poszerzanie wiedzy przydatnej do wykonywania obowiązków, w tym znajomość aktualnego stanu prawnego, przestrzeganie dyscypliny pracy, [kultura](https://samorzad.infor.pl/tematy/kultura/ "kultura") osobista oraz stosunek do interesantów i współpracowników (§6 RozpMSOcenaPSiP). Oprócz tego brane pod uwagę są pozostałe obowiązki wymienione w art. 6 i 7 UPSiP, do których zalicza się m.in.: przestrzeganie Konstytucji Rzeczypospolitej Polskiej i innych przepisów prawa, dochowywanie tajemnicy prawnie chronionej czy wykonywanie poleceń zgodnie z przepisami prawa.
+> 
+> Zobacz również:
+> 
+> -   [Wynagrodzenia asystentów sędziów 2019 – jakie kwoty?](https://www.infor.pl/prawo/pomoc-prawna/sady/2942346,Wynagrodzenia-asystentow-sedziow-2019-jakie-kwoty.html)
+> -   [Czy urzędnik sądowy może odmówić wykonania polecenia?](https://www.infor.pl/prawo/pomoc-prawna/sady/2938350,Czy-urzednik-sadowy-moze-odmowic-wykonania-polecenia.html)
+> 
+> Oceny są dokonywane przez dyrektora sądu lub prokuratora, którzy biorą pod uwagę opinię wystawioną przez bezpośredniego przełożonego i komisję kwalifikacyjną składającą się z 3 do 4 osób, powołaną przez dyrektora sądu lub prokuratora (art. 8 ust. 1 UPSiP). Sporządzoną opinię przekazuje się nie później niż 14 dni przed upływem terminu dokonania oceny (§7 RozpMSOcenaPSiP). Zgodnie z §3 RozpMSOcenaPSiP dopuszczalne są następujące oceny: bardzo dobry (5), dobry (4), zadowalający (3) oraz niezadowalający (2). Istotnym jest aby ocena została sporządzona piśmie. Następnie sporządzoną ocenę niezwłocznie doręcza się urzędnikowi, którego ona dotyczy.
+
