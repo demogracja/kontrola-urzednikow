@@ -76,4 +76,6 @@
 
 [Funkcja i nazwisko. Urzędnik nie może odmówić podania swoich danych osobowych | Serwis Samorządowy PAP](https://samorzad.pap.pl/kategoria/prawo/funkcja-i-nazwisko-urzednik-nie-moze-odmowic-podania-swoich-danych-osobowych)
 
+[Dyrektywa Parlamentu Europejskiego i Rady (UE) 2019/1937 z d... - EUR-Lex](https://eur-lex.europa.eu/legal-content/PL/LSU/?uri=CELEX:32019L1937)
+
 
