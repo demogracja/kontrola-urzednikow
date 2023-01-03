@@ -73,3 +73,7 @@
 > 
 > Dane eksperta. Istotne spory w zakresie udostępnienia imienia i nazwiska w trybie dostępu do informacji publicznej dotyczą danych ekspertów, z wiedzy których korzystają organy administracji publicznej. Dlatego **w orzecznictwie wskazuje się, że dane dotyczące eksperta, w szczególności jego imię i nazwisko, wykształcenie i doświadczenie stanowią informację publiczną a wiedza na ten temat umożliwia publiczną kontrolę** (wyrok WSA w Warszawie z 23 listopada 2010 r., sygn. II SAB/Wa 252/10, LEX nr 756212). Nie można przy tym uznać, że skoro dany ekspert nie pełni formalnie funkcji publicznej, to informacje o jego imieniu i nazwisku nie stanowią informacji publicznej (wyrok WSA w Warszawie z 10 października 2014 r., sygn. II SAB/Wa 434/14, LEX nr 1553250). Natomiast przeciwny pogląd wskazujący na brak możliwości ujawnienia imion i nazwisk ekspertów przyjęto w przypadku ekspertów sporządzających zlecone opinie dotyczące zmian legislacyjnych w systemie ubezpieczeń społecznych (wyrok NSA z 25 kwietnia 2014 r., sygn. I OSK 2499/13, LEX nr 1463584).
 
+
+[Funkcja i nazwisko. Urzędnik nie może odmówić podania swoich danych osobowych | Serwis Samorządowy PAP](https://samorzad.pap.pl/kategoria/prawo/funkcja-i-nazwisko-urzednik-nie-moze-odmowic-podania-swoich-danych-osobowych)
+
+
