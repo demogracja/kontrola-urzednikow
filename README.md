@@ -1,5 +1,59 @@
 # www.urzedasy.pl
 
+
+Poniżej znajduje się kilka zdań koncepcji jaką możemy razem rozwinąć:
+
+---
+
+Jako społeczeństwo nauczyliśmy się po 2020 roku, że najważniejszy jest czynnik polityczny/propagandowy, aby było lepiej lub gorzej. 
+
+
+Proponuję więc przygotować platformę dla konsorcjów i tajnych stowarzyszeń do wpływania na lokalną politykę, tak jak to robią globalne korporacje z World Economic Forum na czele. 
+
+
+Proponuję stworzenie portalu do oceniania urzędników #urzedasy
+
++ zmieńmy Polskę na lepsze kontrolując każdego urzędnika. 
+
+
+Oni nas potrzebują!
+
+
+#Urzedasy to forma demokratyzacji dzięki technologii
+
+
+Urzędnik potrzebuje pomocy, a hermetycznego systemu podatnego na korupcję nie zmienimy od środka, zmieńmy go wspólnie wpływając na każdy element państwa. #Demokratyzacja wchodzi na kolejny poziom dzięki #Technologii. 
+
+
+Kontrola urzędnika przez suwerena to podstawa skutecznego systemu. 
+
+#Urzedasy to platforma do oceny urzędników w różnych aspektach, od efektywności pracy po poziom uczciwości.
+
+
+### Kooperacja 
+
+
+Chcielibyśmy stworzyć konsorcjum z partnerami publicznymi i prywatnymi, aby rozwinąć projekt, w tym technologię, komunikację i finansowanie. Wierzymy, że taki system pozwoliłby na silniejszą kontrolę pracowników publicznych, zwiększając przejrzystość i odpowiedzialność oraz przyczyniając się do poprawy efektywności administracji publicznej.
+
+
+Naszą wizją jest stworzenie platformy do oceny wyników pracy urzędników oraz zapewnienie obywatelom narzędzi do zrozumienia i oceny działań rządu. Platforma ta opierałaby się na informacjach pozyskiwanych z tłumu, które byłyby weryfikowane i zatwierdzane przez niezależny zespół ekspertów. Pozwoliłoby to na obiektywną, niezależną i przejrzystą ocenę urzędników oraz zachęciłoby obywateli do większego zaangażowania w proces demokratyczny.
+
+
+Platforma byłaby projektem open source, z łatwym w użyciu interfejsem, który pozwalałby na udostępnianie zarówno danych publicznych, jak i prywatnych. Byłaby również zaprojektowana tak, aby była dostępna dla szerokiego grona użytkowników, od obywateli po ekspertów, i byłaby zaprojektowana tak, aby była jak najbardziej przejrzysta.
+
+
+Wierzymy, że taka platforma byłaby wielkim wkładem w poprawę efektywności i przejrzystości administracji publicznej. Szukamy partnerów i współpracowników, którzy mogliby dołączyć do nas w tym projekcie i jesteśmy otwarci na wszelkie sugestie i pomysły. Rozpoczęliśmy już prace nad projektem i mamy nadzieję, że wkrótce będzie on gotowy do uruchomienia.
+
+
+Jeśli chcieliby Państwo wziąć udział w tym projekcie, lub jeśli mają Państwo jakiekolwiek pytania lub komentarze, prosimy o kontakt. 
+
+Z poważaniem, Zespół Urzedasy
+
+
+---
+
+## EN
+
 As society we have learned after 2020 that the most important is political/propaganda factor to make the better or worst.
 So I propose to make a platform for a consortia and secret associations to influence local politics, just like global corporations with World Economic Forum at the forefront. Recently, I proposed to create a portal for evaluating officials #urzedasy , if you know similar solutions, I am willing to cooperate, let's change Poland for the better by controlling every official.
 They need us!
@@ -19,6 +73,7 @@ If you would like to participate in this project, or if you have any questions o
 Sincerely, 
 The Urzedasy Team
 
+---
 
 [Funkcja i nazwisko. Urzędnik nie może odmówić podania swoich danych osobowych | Serwis Samorządowy PAP](https://samorzad.pap.pl/kategoria/prawo/funkcja-i-nazwisko-urzednik-nie-moze-odmowic-podania-swoich-danych-osobowych)
 
