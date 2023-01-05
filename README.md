@@ -1,4 +1,4 @@
-# www.demokratyczny.pl
+# [www.demokratyczny.pl](http://www.demokratyczny.pl)
 
 
 Poniżej znajduje się kilka zdań koncepcji jaką możemy razem rozwinąć:
