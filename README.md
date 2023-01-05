@@ -11,7 +11,7 @@ Jako społeczeństwo nauczyliśmy się po 2020 roku, że najważniejszy jest czy
 Proponuję więc przygotować platformę dla konsorcjów i tajnych stowarzyszeń do wpływania na lokalną politykę, tak jak to robią globalne korporacje z World Economic Forum na czele. 
 
 
-Proponuję stworzenie portalu do oceniania urzędników #urzedasy
+Proponuję stworzenie portalu do oceniania urzędników #demokratyczny
 
 + zmieńmy Polskę na lepsze kontrolując każdego urzędnika. 
 
@@ -19,7 +19,7 @@ Proponuję stworzenie portalu do oceniania urzędników #urzedasy
 Oni nas potrzebują!
 
 
-#Urzedasy to forma demokratyzacji dzięki technologii
+#demokratyczny to forma demokratyzacji dzięki technologii
 
 
 Urzędnik potrzebuje pomocy, a hermetycznego systemu podatnego na korupcję nie zmienimy od środka, zmieńmy go wspólnie wpływając na każdy element państwa. #Demokratyzacja wchodzi na kolejny poziom dzięki #Technologii. 
@@ -27,7 +27,7 @@ Urzędnik potrzebuje pomocy, a hermetycznego systemu podatnego na korupcję nie 
 
 Kontrola urzędnika przez suwerena to podstawa skutecznego systemu. 
 
-#Urzedasy to platforma do oceny urzędników w różnych aspektach, od efektywności pracy po poziom uczciwości.
+#demokratyczny to platforma do oceny urzędników w różnych aspektach, od efektywności pracy po poziom uczciwości.
 
 
 ### Kooperacja 
@@ -47,7 +47,7 @@ Wierzymy, że taka platforma byłaby wielkim wkładem w poprawę efektywności i
 
 Jeśli chcieliby Państwo wziąć udział w tym projekcie, lub jeśli mają Państwo jakiekolwiek pytania lub komentarze, prosimy o kontakt. 
 
-Z poważaniem, Zespół Urzedasy
+Z poważaniem, Zespół demokratyczny
 
 
 ---
@@ -55,9 +55,9 @@ Z poważaniem, Zespół Urzedasy
 ## EN
 
 As society we have learned after 2020 that the most important is political/propaganda factor to make the better or worst.
-So I propose to make a platform for a consortia and secret associations to influence local politics, just like global corporations with World Economic Forum at the forefront. Recently, I proposed to create a portal for evaluating officials #urzedasy , if you know similar solutions, I am willing to cooperate, let's change Poland for the better by controlling every official.
+So I propose to make a platform for a consortia and secret associations to influence local politics, just like global corporations with World Economic Forum at the forefront. Recently, I proposed to create a portal for evaluating officials #demokratyczny , if you know similar solutions, I am willing to cooperate, let's change Poland for the better by controlling every official.
 They need us!
-The official needs help, and the hermetic system prone to corruption will not change from the inside, let's change it together by affecting every element of the state. #Democratization goes to the next level thanks to #Technology. The control of an official by the sovereign is the basis of an effective system. #Urzedasy is a platform for evaluating officials in different aspects, from the effectiveness of work to the level of honesty. 
+The official needs help, and the hermetic system prone to corruption will not change from the inside, let's change it together by affecting every element of the state. #Democratization goes to the next level thanks to #Technology. The control of an official by the sovereign is the basis of an effective system. #demokratyczny is a platform for evaluating officials in different aspects, from the effectiveness of work to the level of honesty. 
 
 We would like to create a consortium with public and private partners to develop the project, including technology, communication and financing. We believe that such a system would allow for stronger control of public employees, increasing transparency and accountability, and helping to improve the effectiveness of the public administration. 
 
@@ -71,7 +71,7 @@ If you would like to participate in this project, or if you have any questions o
 
 
 Sincerely, 
-The Urzedasy Team
+The demokratyczny Team
 
 ---
 
