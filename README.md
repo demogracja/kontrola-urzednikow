@@ -1,5 +1,19 @@
 # www.urzedasy.pl
 
+As society we have learned after 2020 that the most important is political/propaganda factor to make the better or worst.
+So I propose to make a platform for a consortia and secret associations to influence local politics, just like global corporations with World Economic Forum at the forefront. Recently, I proposed to create a portal for evaluating officials #urzedasy , if you know similar solutions, I am willing to cooperate, let's change Poland for the better by controlling every official.
+They need us!
+The official needs help, and the hermetic system prone to corruption will not change from the inside, let's change it together by affecting every element of the state. #Democratization goes to the next level thanks to #Technology. The control of an official by the sovereign is the basis of an effective system. #Urzedasy is a platform for evaluating officials in different aspects, from the effectiveness of work to the level of honesty. 
+
+We would like to create a consortium with public and private partners to develop the project, including technology, communication and financing. We believe that such a system would allow for stronger control of public employees, increasing transparency and accountability, and helping to improve the effectiveness of the public administration. 
+
+Our vision is to create a platform to assess the performance of officials and to provide citizens with the tools to understand and evaluate government actions. This platform would be based on crowd-sourced information, which would be verified and validated by an independent team of experts. This would allow for an objective, independent and transparent evaluation of officials, and would encourage citizens to become more involved in the democratic process. 
+
+The platform would be an open source project, with an easy to use interface, that would allow for both public and private data to be shared. It would also be designed to be accessible to a wide range of users, from citizens to experts, and would be designed to be as transparent as possible. 
+
+We believe that such a platform would be a great contribution to improving the efficiency and transparency of the public administration. We are looking
+
+
 
 [Funkcja i nazwisko. Urzędnik nie może odmówić podania swoich danych osobowych | Serwis Samorządowy PAP](https://samorzad.pap.pl/kategoria/prawo/funkcja-i-nazwisko-urzednik-nie-moze-odmowic-podania-swoich-danych-osobowych)
 
