@@ -1,4 +1,4 @@
-# www.urzedasy.pl
+# www.demokratyczny.pl
 
 
 Poniżej znajduje się kilka zdań koncepcji jaką możemy razem rozwinąć:
