@@ -11,8 +11,13 @@ Our vision is to create a platform to assess the performance of officials and to
 
 The platform would be an open source project, with an easy to use interface, that would allow for both public and private data to be shared. It would also be designed to be accessible to a wide range of users, from citizens to experts, and would be designed to be as transparent as possible. 
 
-We believe that such a platform would be a great contribution to improving the efficiency and transparency of the public administration. We are looking
+We believe that such a platform would be a great contribution to improving the efficiency and transparency of the public administration. We are looking for partners and collaborators to join us in this project, and we are open to any suggestions or ideas. We have already started to develop the project, and we hope to have it ready for launch soon. 
 
+If you would like to participate in this project, or if you have any questions or comments, please do not hesitate to contact us. We look forward to hearing from you. 
+
+
+Sincerely, 
+The Urzedasy Team
 
 
 [Funkcja i nazwisko. Urzędnik nie może odmówić podania swoich danych osobowych | Serwis Samorządowy PAP](https://samorzad.pap.pl/kategoria/prawo/funkcja-i-nazwisko-urzednik-nie-moze-odmowic-podania-swoich-danych-osobowych)
