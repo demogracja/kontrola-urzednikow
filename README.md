@@ -153,3 +153,17 @@ The demokratyczny Team
 [Dyrektywa Parlamentu Europejskiego i Rady (UE) 2019/1937 z d... - EUR-Lex](https://eur-lex.europa.eu/legal-content/PL/LSU/?uri=CELEX:32019L1937)
 
 
+
+
+# Milicja 
+
+[Opinia MSWiA o przepisach o ochronie sygnalistów. W policji te procedury są zbędne](https://businessinsider.com.pl/prawo/praca/opinia-mswia-o-przepisach-o-ochronie-sygnalistow-w-policji-te-procedury-sa-zbedne/sbftfle)
+
+> Ministerstwo Spraw Wewnętrznych i Administracji chce wyłączyć policję z ustawy o ochronie sygnalistów. Twierdzi, że policjanci muszą reagować na każdy przypadek łamania prawa i nie potrzebują specjalnej procedury. Problem w tym, że z dostępnych informacji wynika, że funkcjonariusze zgłaszają nieprawidłowości, ale są narażeni na przykre konsekwencje, i ochrona by im się przydała. Gdyby nie udało się wyłączyć policji z ustawy, resort ma jeszcze inny pomysł na uziemienie sygnalistów.
+> 
+> -   **Projekt ustawy, który dostosowuje polskie przepisy do unijnych, ma sprawić, że podwładni będą chętniej zgłaszać np. defraudację, oszustwa podatkowe, korupcję.**
+> -   **Ministerstwo Spraw Wewnętrznych i Administracji uważa jednak, że policja nie potrzebuje nowych wewnętrznych procedur zgłaszania naruszeń**
+> -   **Zdaniem resortu ustawa o policji mówi jasno jak funkcjonariusz ma postępować w razie złamania przepisów**
+> -   **Resort proponuje też ograniczenie zakresu zgłoszeń, bo chce wyeliminować donosy pisane w celu osiągnięcia osobistych korzyści**
+> -   **Dublowanie procedur na pierwszy rzut oka nie ma sensu, ale w praktyce utrudni sygnalizowanie nieprawidłowości, do których dochodzi wewnątrz formacji**
+> -   **A** **jak wynika z publicznych informacji policjanci-sygnaliści nie są dziś dobrze traktowani**
