@@ -1,5 +1,23 @@
 # [www.demokratyczny.pl](http://www.demokratyczny.pl)
 
++ [Prawo.pl](https://www.prawo.pl/)
++ [Zgłoś prośbę o pomoc](https://fpop.org.pl/zglos-prosbe-o-pomoc)
+
+> # Zgłoś prośbę o pomoc
+> 
+> ##### Zgodnie ze Statutem Fundacji,
+> 
+> pomoc finansowa przyznawana jest w pierwszej kolejności ofiarom przestępstw przeciwko życiu lub zdrowiu, w tym także przestępstw komunikacyjnych. W drugiej kolejności rozpatrywane są wnioski ofiar przestępstw popełnionych z zastosowaniem przemocy. 
+> 
+> ![](https://fpop.org.pl/images/box/help_me_prod_01.png)
+> 
+> Fundacja oferuje trzy warianty pomocy.
+> 
+> -   wyrównać w części lub nawet w całości pokryć straty materialne poniesione wskutek przestępstwa.
+> -   zapłacić za część kosztów związanych z dochodzeniem odszkodowania za wyrządzoną krzywdę,
+> -   pomoc doraźną. Fundacja o ewentualnym wariancie pomocy, decyduje po rozpatrzeniu wniosku.
+
+
 
 Poniżej znajduje się kilka zdań koncepcji jaką możemy razem rozwinąć:
 
